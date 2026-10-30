@@ -1,0 +1,145 @@
+{
+  "title": "IELTS Speaking Mock",
+  "part1": [
+    "What do you do at the moment: work, study, or both?",
+    "What do you like most about your current work or study?",
+    "How often do you use public transport?",
+    "What kind of place do you prefer for studying or working?",
+    "Do you enjoy learning new skills? Why?",
+    "What is one thing you would like to improve about your daily routine?"
+  ],
+  "part2": {
+    "cards": [
+      {
+        "id": "S2C1",
+        "title": "Describe a skill you learned recently",
+        "bullets": [
+          "what the skill was",
+          "why you decided to learn it",
+          "how you learned it",
+          "and explain how useful it has been"
+        ]
+      },
+      {
+        "id": "S2C2",
+        "title": "Describe a place in your city that you enjoy visiting",
+        "bullets": [
+          "where it is",
+          "what it looks like",
+          "what you do there",
+          "and explain why you enjoy visiting it"
+        ]
+      },
+      {
+        "id": "S2C3",
+        "title": "Describe a person who gave you useful advice",
+        "bullets": [
+          "who the person was",
+          "what the advice was",
+          "when you received it",
+          "and explain why it was useful"
+        ]
+      },
+      {
+        "id": "S2C4",
+        "title": "Describe a time you solved a difficult problem",
+        "bullets": [
+          "what the problem was",
+          "why it was difficult",
+          "what you did",
+          "and explain how you felt afterwards"
+        ]
+      },
+      {
+        "id": "S2C5",
+        "title": "Describe a book or article you found interesting",
+        "bullets": [
+          "what it was about",
+          "when you read it",
+          "why you chose it",
+          "and explain what made it interesting"
+        ]
+      },
+      {
+        "id": "S2C6",
+        "title": "Describe a useful piece of technology you own",
+        "bullets": [
+          "what it is",
+          "how long you have had it",
+          "how you use it",
+          "and explain why it is useful"
+        ]
+      },
+      {
+        "id": "S2C7",
+        "title": "Describe a memorable journey",
+        "bullets": [
+          "where you went",
+          "who you travelled with",
+          "what happened during the journey",
+          "and explain why you remember it"
+        ]
+      },
+      {
+        "id": "S2C8",
+        "title": "Describe an event you helped organise",
+        "bullets": [
+          "what the event was",
+          "who was involved",
+          "what your role was",
+          "and explain what you learned from the experience"
+        ]
+      },
+      {
+        "id": "S2C9",
+        "title": "Describe a meal you enjoyed with other people",
+        "bullets": [
+          "where you had it",
+          "who you were with",
+          "what you ate",
+          "and explain why the meal was memorable"
+        ]
+      },
+      {
+        "id": "S2C10",
+        "title": "Describe a goal you want to achieve",
+        "bullets": [
+          "what the goal is",
+          "why it is important",
+          "what you need to do",
+          "and explain how you will feel if you achieve it"
+        ]
+      },
+      {
+        "id": "S2C11",
+        "title": "Describe a teacher you remember well",
+        "bullets": [
+          "who the teacher was",
+          "what they taught",
+          "what their teaching style was like",
+          "and explain why you remember them"
+        ]
+      },
+      {
+        "id": "S2C12",
+        "title": "Describe an outdoor activity you would like to try",
+        "bullets": [
+          "what the activity is",
+          "where you could do it",
+          "who you would like to do it with",
+          "and explain why you want to try it"
+        ]
+      }
+    ]
+  },
+  "part3": [
+    "Why do some people find it easier than others to learn new skills?",
+    "Should schools teach more practical life skills?",
+    "How has technology changed the way people learn?",
+    "Do people rely too much on online advice?",
+    "Why are public spaces important in cities?",
+    "How can cities encourage people to use more sustainable transport?",
+    "Do employers value practical skills more than academic knowledge?",
+    "How might education change in the next twenty years?"
+  ]
+}

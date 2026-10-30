@@ -1,0 +1,289 @@
+{
+  "title": "IELTS Academic Listening Mock",
+  "instructions": "There are 4 parts and 40 questions. For this practice website, each original script can be played using your browser’s speech engine. In a real IELTS test, recordings are heard once.",
+  "parts": [
+    {
+      "title": "Community Sports Centre Membership",
+      "context": "A caller speaks with a receptionist about joining a sports centre.",
+      "script": "Receptionist: Good morning, Riverside Community Sports Centre. How can I help?\nCaller: Hi. I have just moved to the area and I would like to join the centre.\nReceptionist: Certainly. We have three membership types. The basic plan costs twenty-eight pounds a month and includes the gym. The standard plan is thirty-six pounds and also includes the swimming pool. The premium plan is forty-eight pounds and includes classes as well.\nCaller: I mainly want the gym and pool, so the standard plan sounds right.\nReceptionist: Fine. There is a one-off joining fee of fifteen pounds, but we waive that for students.\nCaller: I am not a student. I work at a primary school.\nReceptionist: No problem. May I take your name?\nCaller: It is Nadia Rahman, R-A-H-M-A-N.\nReceptionist: Thank you. What is your postcode?\nCaller: BR4 7LP.\nReceptionist: And a contact number?\nCaller: 07700 946 218.\nReceptionist: Great. Which day would you like your membership to start?\nCaller: I was thinking Monday the 8th, but I have a work event then. Could we make it Wednesday the 10th instead?\nReceptionist: Of course. Our induction sessions are at 6:30 p.m. on weekdays. Please bring comfortable shoes, a water bottle and a small towel. Lockers take a one-pound coin, although you get it back afterwards.\nCaller: That all sounds fine. Do I need to bring a passport photo?\nReceptionist: No, we take a digital photo at reception.\nCaller: Perfect, thank you.",
+      "questions": [
+        {
+          "id": "L1",
+          "prompt": "Which membership does the caller choose?",
+          "options": [
+            "Basic",
+            "Standard",
+            "Premium"
+          ]
+        },
+        {
+          "id": "L2",
+          "prompt": "How much is the chosen membership per month?"
+        },
+        {
+          "id": "L3",
+          "prompt": "What is the one-off joining fee?"
+        },
+        {
+          "id": "L4",
+          "prompt": "What is the caller’s surname?"
+        },
+        {
+          "id": "L5",
+          "prompt": "What is the postcode?"
+        },
+        {
+          "id": "L6",
+          "prompt": "What is the final start date?"
+        },
+        {
+          "id": "L7",
+          "prompt": "What time is the weekday induction session?"
+        },
+        {
+          "id": "L8",
+          "prompt": "Which item should the caller bring?",
+          "options": [
+            "A passport photo",
+            "A small towel",
+            "A padlock"
+          ]
+        },
+        {
+          "id": "L9",
+          "prompt": "How much money is needed to use a locker?"
+        },
+        {
+          "id": "L10",
+          "prompt": "Where will the membership photo be taken?",
+          "options": [
+            "At reception",
+            "At the gym entrance",
+            "At home online"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Museum Volunteer Briefing",
+      "context": "A coordinator gives information to new volunteers at a local museum.",
+      "script": "Coordinator: Welcome to the Harbour Museum volunteer team. Before your first shift, I want to explain how the building works. The public entrance is on King Street, but volunteers should use the side door in Miller Lane. Your ID card will open it from 8:15 in the morning.\nMost of you will begin in the welcome gallery. Please greet visitors, answer simple questions and direct them to the main exhibitions. Do not give detailed historical explanations unless you have completed the guide training course.\nThe museum opens to visitors at 9:30 and closes at 5:00. Volunteers normally work either 9 to 1 or 1 to 5. If you need to cancel, please email the volunteer office at least twenty-four hours in advance. For illness on the day, phone the duty manager directly.\nThere are two break rooms. The larger one on the first floor has a fridge, kettle and microwave. The smaller room beside the archive has only a kettle, so most people prefer the first-floor room.\nOn Saturdays we run family workshops in Studio B. Next month the theme is local transport, and children will build small model boats. We need two extra volunteers to help prepare paper, glue and safety scissors.\nFinally, remember that bags cannot be taken into the collection store. Lock them in the staff lockers before entering. Photography is allowed in most public areas, but never in the archive or collection store.",
+      "questions": [
+        {
+          "id": "L11",
+          "prompt": "Which entrance should volunteers use?",
+          "options": [
+            "King Street entrance",
+            "Miller Lane side door",
+            "Archive entrance"
+          ]
+        },
+        {
+          "id": "L12",
+          "prompt": "From what time will the volunteer ID card open the door?"
+        },
+        {
+          "id": "L13",
+          "prompt": "Where do most new volunteers begin their shift?"
+        },
+        {
+          "id": "L14",
+          "prompt": "What should volunteers avoid unless they complete guide training?",
+          "options": [
+            "Greeting visitors",
+            "Giving detailed historical explanations",
+            "Directing visitors"
+          ]
+        },
+        {
+          "id": "L15",
+          "prompt": "What time does the museum open to the public?"
+        },
+        {
+          "id": "L16",
+          "prompt": "How much notice should volunteers give for a planned cancellation?"
+        },
+        {
+          "id": "L17",
+          "prompt": "What should a volunteer do if they are ill on the day?",
+          "options": [
+            "Email the museum director",
+            "Phone the duty manager",
+            "Send a text to another volunteer"
+          ]
+        },
+        {
+          "id": "L18",
+          "prompt": "Which appliance is NOT mentioned in the larger break room?",
+          "options": [
+            "Fridge",
+            "Microwave",
+            "Dishwasher"
+          ]
+        },
+        {
+          "id": "L19",
+          "prompt": "What will children build in next month’s Saturday workshop?"
+        },
+        {
+          "id": "L20",
+          "prompt": "In which two places is photography prohibited?"
+        }
+      ]
+    },
+    {
+      "title": "University Project Meeting",
+      "context": "Three students discuss a group research project with their tutor.",
+      "script": "Tutor: Let us check the plan for your urban gardening project. Last time you wanted to compare rooftop gardens with community gardens. Is that still the focus?\nMaya: We changed it slightly. We are now comparing rooftop gardens with balcony gardening because community gardens vary too much in size.\nTutor: That is more manageable. What data will you collect?\nJon: We planned an online questionnaire, but only twelve people responded to our pilot. So we thought short interviews would give better detail.\nMaya: We will still keep a very short questionnaire to collect basic information like age group and type of housing.\nTutor: Good. Who are you interviewing?\nJon: Residents in three apartment buildings near the university. We initially selected five buildings, but two managers did not reply.\nTutor: And your sample size?\nMaya: Around thirty residents. We know that is not large, so we will describe the study as exploratory rather than representative.\nTutor: Sensible. What about the literature review?\nJon: I have eight articles so far. Most discuss food production, but we need more on mental wellbeing.\nTutor: Search the environmental psychology database. It has several useful studies.\nMaya: We also need to decide who presents which section.\nTutor: Do that after you analyse the interviews. Your presentation is on the 22nd, but I want a full draft of the slides by the 18th.\nJon: Right. And the written report is due on the 29th?\nTutor: Yes, at noon, uploaded as a PDF.",
+      "questions": [
+        {
+          "id": "L21",
+          "prompt": "What two types of gardening will the students compare?",
+          "options": [
+            "Rooftop and community",
+            "Rooftop and balcony",
+            "Balcony and community"
+          ]
+        },
+        {
+          "id": "L22",
+          "prompt": "Why did they move away from relying on an online questionnaire?",
+          "options": [
+            "It was too expensive",
+            "The pilot had few responses",
+            "The questions were too difficult"
+          ]
+        },
+        {
+          "id": "L23",
+          "prompt": "What will the short questionnaire collect?",
+          "options": [
+            "Basic background information",
+            "Detailed opinions",
+            "Gardening photographs"
+          ]
+        },
+        {
+          "id": "L24",
+          "prompt": "How many apartment buildings will be included?"
+        },
+        {
+          "id": "L25",
+          "prompt": "Approximately how many residents will be interviewed?"
+        },
+        {
+          "id": "L26",
+          "prompt": "How will the students describe the study?",
+          "options": [
+            "Representative",
+            "Experimental",
+            "Exploratory"
+          ]
+        },
+        {
+          "id": "L27",
+          "prompt": "Which topic is missing from most of Jon’s current articles?"
+        },
+        {
+          "id": "L28",
+          "prompt": "Which database does the tutor recommend?",
+          "options": [
+            "Environmental psychology",
+            "Urban economics",
+            "Public health statistics"
+          ]
+        },
+        {
+          "id": "L29",
+          "prompt": "On what date should the full draft of the slides be ready?"
+        },
+        {
+          "id": "L30",
+          "prompt": "At what time is the written report due on the 29th?"
+        }
+      ]
+    },
+    {
+      "title": "Lecture on Urban Heat Islands",
+      "context": "A university lecturer explains why cities are often warmer than surrounding rural areas.",
+      "script": "Lecturer: Today we will examine the urban heat island effect, which describes the tendency for cities to be warmer than nearby rural areas. The difference is often most noticeable after sunset. During the day, materials such as concrete and asphalt absorb solar energy. At night, they release that stored heat slowly, while rural soils and vegetation cool more quickly.\nA second factor is the shortage of vegetation. Trees reduce temperature in two main ways: they provide shade and they release water vapour through a process called evapotranspiration. When trees are removed for roads, parking areas and buildings, cities lose both benefits.\nHuman activity also adds heat. Vehicles, air-conditioning systems, factories and even dense concentrations of people release energy into the local environment. Ironically, air conditioners cool indoor spaces while releasing waste heat outdoors.\nResearchers measure urban heat using fixed weather stations, mobile sensors attached to bicycles or cars, and satellite data. Satellites are especially useful for mapping surface temperature across a whole city, although they do not directly measure the air temperature experienced by pedestrians.\nCities are testing several responses. Planting street trees is effective but requires space, water and long-term maintenance. Green roofs can reduce roof temperatures and manage rainfall, although installation costs can be high. Another approach is to use pale or reflective materials on roofs and roads so that more sunlight is reflected rather than absorbed.\nNo single measure is enough. The most successful plans combine vegetation, reflective surfaces, building design and changes to transport. Importantly, planners must consider equity. Low-income neighbourhoods often have fewer trees and more heat-absorbing surfaces, so heat reduction programmes should prioritise the communities that face the greatest risk.",
+      "questions": [
+        {
+          "id": "L31",
+          "prompt": "When is the urban-rural temperature difference often most noticeable?",
+          "options": [
+            "At sunrise",
+            "After sunset",
+            "At midday"
+          ]
+        },
+        {
+          "id": "L32",
+          "prompt": "Which materials are mentioned as storing solar energy?",
+          "options": [
+            "Concrete and asphalt",
+            "Glass and timber",
+            "Steel and plastic"
+          ]
+        },
+        {
+          "id": "L33",
+          "prompt": "What process allows trees to release water vapour?"
+        },
+        {
+          "id": "L34",
+          "prompt": "Which device is NOT mentioned as a source of human-generated heat?",
+          "options": [
+            "Vehicles",
+            "Air conditioners",
+            "Wind turbines"
+          ]
+        },
+        {
+          "id": "L35",
+          "prompt": "What can be attached to bicycles or cars to collect temperature data?",
+          "options": [
+            "Mobile sensors",
+            "Satellite dishes",
+            "Soil probes"
+          ]
+        },
+        {
+          "id": "L36",
+          "prompt": "What do satellites map particularly well?",
+          "options": [
+            "Pedestrian air temperature",
+            "Surface temperature",
+            "Indoor temperature"
+          ]
+        },
+        {
+          "id": "L37",
+          "prompt": "What is one disadvantage of planting street trees?",
+          "options": [
+            "They always increase rainfall",
+            "They require long-term maintenance",
+            "They cannot provide shade"
+          ]
+        },
+        {
+          "id": "L38",
+          "prompt": "Besides lowering roof temperature, what else can green roofs help manage?"
+        },
+        {
+          "id": "L39",
+          "prompt": "What do reflective materials do to sunlight?",
+          "options": [
+            "Absorb more of it",
+            "Reflect more of it",
+            "Convert it directly to electricity"
+          ]
+        },
+        {
+          "id": "L40",
+          "prompt": "Which communities should heat-reduction programmes prioritise?"
+        }
+      ]
+    }
+  ]
+}

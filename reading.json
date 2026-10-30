@@ -1,0 +1,329 @@
+{
+  "title": "IELTS Academic Reading Mock",
+  "instructions": "You have 60 minutes for all three passages. Answer all 40 questions. This mock uses original passages and IELTS-style task types.",
+  "passages": [
+    {
+      "title": "Why Small Urban Wetlands Matter",
+      "text": "A wetland does not need to be enormous to be ecologically important. In many cities, small ponds, marshy corners and seasonally flooded spaces are being reconsidered as useful pieces of urban infrastructure. For decades, such places were often drained because planners associated standing water with inconvenience, mosquitoes or wasted land. More recently, researchers and city authorities have started to examine the benefits that even small wetlands can provide.\n\nOne important function is storm-water management. When rain falls on a city, water runs quickly across roofs, roads and pavements because these hard surfaces cannot absorb it. A wetland can temporarily hold part of this water and release it more slowly. This does not mean that every pond can prevent flooding, but a network of well-placed wetlands can reduce pressure on drains during intense rainfall. Their effectiveness depends on factors such as size, soil, vegetation and connection to the local drainage system.\n\nWetlands may also improve water quality. Sediment can settle as water slows down, while plants and microorganisms can remove some nutrients and pollutants. However, the process is not automatic. If a wetland receives more pollution than it can process, water quality may still decline. This is one reason long-term monitoring is necessary after restoration projects are completed.\n\nAnother benefit is biodiversity. Small wetlands can provide breeding sites for frogs and insects and feeding areas for birds. In highly built-up districts, they may act as stepping stones between larger green spaces. A single wetland may support only a modest number of species, yet several nearby sites can collectively create a useful habitat network.\n\nPeople can benefit as well. Studies of urban green and blue spaces suggest that contact with natural environments may support mental wellbeing. A pond with paths and seating can become a quiet place for residents, although public access must be designed carefully to avoid damaging sensitive habitat. In some locations, boardwalks concentrate visitors in particular areas while keeping other zones undisturbed.\n\nThere are limitations. Small wetlands require maintenance, and poorly designed sites may become dominated by invasive plants or collect litter. They can also create conflicts if residents fear mosquitoes or if valuable land is required for housing. Yet these problems do not necessarily justify removing wetlands altogether. Instead, they show why good design, community communication and ongoing management are essential.\n\nThe strongest argument for urban wetlands may therefore be their ability to perform several roles at once. A single site can store rainfall, support wildlife, improve the appearance of a neighbourhood and provide a place for recreation. In crowded cities, where land is expensive, spaces that deliver multiple benefits are increasingly attractive.",
+      "questions": [
+        {
+          "id": "R1",
+          "prompt": "TRUE, FALSE or NOT GIVEN: Urban planners have always valued small wetlands.",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "id": "R2",
+          "prompt": "TRUE, FALSE or NOT GIVEN: Hard urban surfaces cause rainwater to move quickly.",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "id": "R3",
+          "prompt": "TRUE, FALSE or NOT GIVEN: Every urban wetland can prevent flooding on its own.",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "id": "R4",
+          "prompt": "Which factor is mentioned as affecting a wetland’s ability to manage storm water?",
+          "options": [
+            "Building height",
+            "Soil",
+            "Air temperature"
+          ]
+        },
+        {
+          "id": "R5",
+          "prompt": "Why is long-term monitoring needed after restoration?",
+          "options": [
+            "Wetlands may receive more pollution than they can process",
+            "Bird numbers always fall after restoration",
+            "Paths must be rebuilt every year"
+          ]
+        },
+        {
+          "id": "R6",
+          "prompt": "What can small wetlands act as between larger green spaces?"
+        },
+        {
+          "id": "R7",
+          "prompt": "Which animals are specifically mentioned as breeding in small wetlands?",
+          "options": [
+            "Frogs and insects",
+            "Birds and fish",
+            "Mammals and reptiles"
+          ]
+        },
+        {
+          "id": "R8",
+          "prompt": "What may contact with natural environments support?"
+        },
+        {
+          "id": "R9",
+          "prompt": "Why might boardwalks be used?",
+          "options": [
+            "To increase water depth",
+            "To concentrate visitors in selected areas",
+            "To remove invasive plants"
+          ]
+        },
+        {
+          "id": "R10",
+          "prompt": "TRUE, FALSE or NOT GIVEN: All residents are comfortable living near wetlands.",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "id": "R11",
+          "prompt": "Name one maintenance problem mentioned in the passage."
+        },
+        {
+          "id": "R12",
+          "prompt": "What is presented as essential for successful urban wetlands?",
+          "options": [
+            "Good design, communication and ongoing management",
+            "Complete separation from people",
+            "Large numbers of fish"
+          ]
+        },
+        {
+          "id": "R13",
+          "prompt": "What is the main idea of the final paragraph?",
+          "options": [
+            "Wetlands are too expensive for cities",
+            "Wetlands can provide several benefits at the same time",
+            "Wetlands should replace housing"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Return of Repair Culture",
+      "text": "For much of the twentieth century, repairing household goods was an ordinary part of daily life. Radios, bicycles, clothing and furniture were often maintained for years. In many wealthy societies, however, the growth of mass production gradually made replacement easier and sometimes cheaper than repair. As products became more complex and consumers became accustomed to rapid upgrades, repair skills also became less common.\n\nRecently, interest in repair has begun to return. One visible example is the repair café: a community event where volunteers help people fix broken items. Visitors may bring lamps, small appliances, clothing or bicycles. The aim is not simply to provide a free repair service. Organisers often want owners to participate, observe the process and learn basic skills. In this sense, repair cafés are educational as well as practical.\n\nEnvironmental concerns are a major reason for the renewed interest. Manufacturing new products requires raw materials and energy, while discarded goods contribute to waste. Extending the life of a product can reduce the need for replacement, although the environmental benefit varies. An extremely inefficient old appliance may consume so much electricity that replacing it with a modern model could sometimes be the better option.\n\nEconomic factors matter too. Repair can save money, but not always. Labour costs are high in many countries, and some manufacturers design products in ways that make them difficult to open or reassemble. Spare parts may be unavailable or sold only as expensive modules. A damaged component worth a few dollars might therefore require the replacement of a much larger unit.\n\nThese difficulties have contributed to the “right to repair” movement. Supporters argue that consumers and independent technicians should have access to spare parts, repair manuals and diagnostic tools. Some governments have introduced rules requiring manufacturers to provide certain parts for a number of years. Critics respond that unrestricted access to technical information could create safety or cybersecurity risks in some products.\n\nRepair also has a social dimension. At community repair events, people who might not otherwise meet can exchange knowledge across age groups and backgrounds. Older participants may contribute practical skills, while younger volunteers may be more familiar with digital devices. The activity can therefore strengthen local connections as well as reduce waste.\n\nStill, repair culture will not return simply because people are nostalgic. For repair to become a normal option, products must be designed with maintenance in mind, parts must be reasonably priced, and consumers need trustworthy information. The future of repair is likely to depend on a combination of product design, law, education and consumer behaviour rather than on any single solution.",
+      "questions": [
+        {
+          "id": "R14",
+          "prompt": "What made replacement increasingly attractive in many wealthy societies?",
+          "options": [
+            "Mass production",
+            "A shortage of shops",
+            "Lower literacy"
+          ]
+        },
+        {
+          "id": "R15",
+          "prompt": "What is one purpose of repair cafés besides fixing objects?"
+        },
+        {
+          "id": "R16",
+          "prompt": "TRUE, FALSE or NOT GIVEN: Repair cafés expect visitors to remain completely passive.",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "id": "R17",
+          "prompt": "Why can extending product life help the environment?",
+          "options": [
+            "It reduces the need for new manufacturing",
+            "It increases electricity use",
+            "It eliminates all waste"
+          ]
+        },
+        {
+          "id": "R18",
+          "prompt": "When might replacing an old appliance be environmentally preferable?",
+          "options": [
+            "When it is very inefficient",
+            "When it is easy to repair",
+            "When it is made of metal"
+          ]
+        },
+        {
+          "id": "R19",
+          "prompt": "Which cost can make repair expensive in many countries?"
+        },
+        {
+          "id": "R20",
+          "prompt": "What problem can occur when spare parts are sold only as modules?"
+        },
+        {
+          "id": "R21",
+          "prompt": "Supporters of the right to repair want access to all of the following EXCEPT:",
+          "options": [
+            "Repair manuals",
+            "Diagnostic tools",
+            "Free new products"
+          ]
+        },
+        {
+          "id": "R22",
+          "prompt": "What concern do critics raise about unrestricted technical information?",
+          "options": [
+            "Safety or cybersecurity risks",
+            "Higher recycling rates",
+            "Lower product quality in every case"
+          ]
+        },
+        {
+          "id": "R23",
+          "prompt": "TRUE, FALSE or NOT GIVEN: Older participants are always better than younger participants at every kind of repair.",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "id": "R24",
+          "prompt": "What social benefit can community repair events create?"
+        },
+        {
+          "id": "R25",
+          "prompt": "According to the final paragraph, what should products be designed with in mind?"
+        },
+        {
+          "id": "R26",
+          "prompt": "Which statement best summarises the passage?",
+          "options": [
+            "Repair culture depends on several practical, legal and social factors",
+            "Repair is always cheaper than replacement",
+            "Governments should ban new products"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How Memory Changes When We Retrieve It",
+      "text": "People often imagine memory as a storage system in which experiences are placed and later retrieved in their original form. Modern research suggests a more complicated picture. Remembering is an active process: when people recall an event, they reconstruct it using stored details, current knowledge and expectations. This helps explain why memories can remain useful even though they are not perfect recordings.\n\nOne important finding is that retrieval itself can change a memory. When a memory is brought back to mind, it may temporarily become flexible before being stored again. Researchers sometimes call this process reconsolidation. During this period, new information can become linked with the older memory. This does not mean that every act of remembering dramatically rewrites the past, but it suggests that memory is more dynamic than once assumed.\n\nLaboratory experiments often demonstrate this by asking participants to learn a set of material, later reactivate the memory, and then receive new information. In some studies, participants subsequently remember a mixture of original and new details. The effect depends on timing and on how strongly the original memory was established. Researchers therefore caution against treating reconsolidation as a simple erase-and-replace mechanism.\n\nThe idea has attracted interest in clinical psychology. Some researchers have explored whether reactivating distressing memories in a safe setting could help reduce their emotional impact. The goal is generally not to remove factual knowledge of an event but to weaken the intense fear response associated with it. This work is promising, yet translating laboratory findings into reliable therapies is difficult. People’s real-life memories are more complex than lists learned in an experiment, and ethical safeguards are essential.\n\nThe reconstructive nature of memory is also relevant to eyewitness testimony. A witness may be confident while still being inaccurate. Questions asked after an event, conversations with other witnesses, or repeated exposure to news reports can influence later recall. For this reason, investigators are advised to use neutral questions and avoid unnecessarily repeating interviews.\n\nAt the same time, it would be wrong to conclude that human memory is useless. A flexible memory system allows people to combine past experience with new knowledge, update beliefs and make predictions. Perfectly fixed memories might actually be less useful in a changing environment. The challenge is to understand when flexibility supports learning and when it produces error.\n\nCurrent research therefore treats memory not as a static archive but as an adaptive system. Each act of remembering can strengthen some elements, weaken others and connect old information with new. The result is a system that is powerful precisely because it can change, though that same capacity creates opportunities for distortion.",
+      "questions": [
+        {
+          "id": "R27",
+          "prompt": "What common comparison of memory does the first paragraph challenge?",
+          "options": [
+            "Memory as a storage system",
+            "Memory as a muscle",
+            "Memory as a language"
+          ]
+        },
+        {
+          "id": "R28",
+          "prompt": "What three things are mentioned as contributing to reconstruction?",
+          "options": [
+            "Stored details, current knowledge and expectations",
+            "Dreams, emotions and handwriting",
+            "Age, height and occupation"
+          ]
+        },
+        {
+          "id": "R29",
+          "prompt": "What is the process of restoring a reactivated memory called?"
+        },
+        {
+          "id": "R30",
+          "prompt": "TRUE, FALSE or NOT GIVEN: Every act of remembering completely rewrites a memory.",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "id": "R31",
+          "prompt": "In laboratory studies, what may participants remember after new information is introduced?",
+          "options": [
+            "A mixture of original and new details",
+            "Only the new details",
+            "Nothing at all"
+          ]
+        },
+        {
+          "id": "R32",
+          "prompt": "What two factors are said to influence the effect in experiments?"
+        },
+        {
+          "id": "R33",
+          "prompt": "Why do researchers reject a simple erase-and-replace description?",
+          "options": [
+            "Reconsolidation effects depend on conditions",
+            "No memories can ever change",
+            "Experiments do not involve people"
+          ]
+        },
+        {
+          "id": "R34",
+          "prompt": "In clinical research, what do scientists often hope to reduce?",
+          "options": [
+            "The emotional impact of distressing memories",
+            "All factual knowledge",
+            "The ability to learn"
+          ]
+        },
+        {
+          "id": "R35",
+          "prompt": "TRUE, FALSE or NOT GIVEN: Real-life memories are generally simpler than laboratory learning tasks.",
+          "options": [
+            "TRUE",
+            "FALSE",
+            "NOT GIVEN"
+          ]
+        },
+        {
+          "id": "R36",
+          "prompt": "Why are ethical safeguards important in clinical work?",
+          "options": [
+            "The work involves distressing real-life memories",
+            "It makes experiments cheaper",
+            "It guarantees perfect recall"
+          ]
+        },
+        {
+          "id": "R37",
+          "prompt": "What can influence an eyewitness’s later recall? Name one factor."
+        },
+        {
+          "id": "R38",
+          "prompt": "What type of questions are investigators advised to use?",
+          "options": [
+            "Neutral questions",
+            "Leading questions",
+            "Highly emotional questions"
+          ]
+        },
+        {
+          "id": "R39",
+          "prompt": "What advantage of flexible memory is mentioned?",
+          "options": [
+            "It helps people update beliefs",
+            "It prevents all mistakes",
+            "It makes memories permanent"
+          ]
+        },
+        {
+          "id": "R40",
+          "prompt": "Which title best reflects the final paragraph?",
+          "options": [
+            "Memory as an adaptive system",
+            "Why memory should never change",
+            "The end of eyewitness research"
+          ]
+        }
+      ]
+    }
+  ]
+}

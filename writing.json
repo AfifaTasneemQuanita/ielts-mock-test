@@ -1,0 +1,48 @@
+{
+  "title": "IELTS Academic Writing Mock",
+  "tasks": [
+    {
+      "id": "W1",
+      "prompt": "The table below shows the percentage of commuters using four types of transport in a medium-sized city in 2005, 2015 and 2025. Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+      "visual": {
+        "title": "Percentage of commuters by transport mode",
+        "rows": [
+          [
+            "Mode",
+            "2005",
+            "2015",
+            "2025"
+          ],
+          [
+            "Private car",
+            "58%",
+            "49%",
+            "41%"
+          ],
+          [
+            "Bus",
+            "24%",
+            "27%",
+            "30%"
+          ],
+          [
+            "Bicycle",
+            "8%",
+            "12%",
+            "17%"
+          ],
+          [
+            "Walking",
+            "10%",
+            "12%",
+            "12%"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "W2",
+      "prompt": "Some people believe universities should focus mainly on skills that directly prepare students for employment. Others believe universities should provide a broader education, even when some subjects have no obvious career use. Discuss both views and give your own opinion. Write at least 250 words."
+    }
+  ]
+}
